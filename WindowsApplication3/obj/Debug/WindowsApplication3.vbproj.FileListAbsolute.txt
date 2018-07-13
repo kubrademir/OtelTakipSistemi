@@ -1,0 +1,68 @@
+c:\users\demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+c:\users\demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.AnaMenü.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.GelirGiderEkranı.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.GirişEkranı.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.KayıtEkranı.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Rezervasyon.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Odaİşlemleri.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Personelİslemleri.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Faturalar.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.KasaDevir.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MaaşTakip.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.OdaTemizlik.resources
+C:\Users\Demirkaya\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Ürünler.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.AnaMenü.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.GelirGiderEkranı.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.GirişEkranı.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.KayıtEkranı.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MaaşTakip.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.OdaArama.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.OdaTemizlik.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Odaİşlemleri.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Personelİslemleri.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Rezervasyon.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Ürünler.resources
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\toshıbaa\Desktop\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\toshıbaa\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\toshıbaa\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\toshıbaa\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+E:\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+E:\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+E:\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.AnaMenü.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.GelirGiderEkranı.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.GirişEkranı.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.KayıtEkranı.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.MaaşTakip.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.OdaArama.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.OdaTemizlik.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.Odaİşlemleri.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.Personelİslemleri.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.Rezervasyon.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.Ürünler.resources
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Kubra\Desktop\OtelTakipSis\Uygulama\OtelTakipSistemi\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
